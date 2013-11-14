@@ -1,0 +1,2 @@
+name = amine
+puts name
